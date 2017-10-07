@@ -1,5 +1,6 @@
 body{
-  background-color: #grad;
+  background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+  background-blend-mode: screen;
 }
 
 footer{
@@ -23,7 +24,7 @@ footer{
 .page-subtitle{
   text-align: center;
   font-style: italic;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .section-heading{
@@ -46,4 +47,19 @@ footer{
 .workshop-description{
   font-size: 14px;
   font-weight: normal;
+}
+.hack-az{
+  color:  #9932CC;
+}
+
+.organization-shoutout{
+  text-align: center;
+  font-weight: normal;
+}
+.register-link{
+  text-align: center;
+}
+
+.sponsor{
+  color: #CC0033;
 }
