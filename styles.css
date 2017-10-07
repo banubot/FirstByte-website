@@ -10,6 +10,7 @@ footer{
 hr {
     height: 1px;
     border-top: 1px solid gray;
+    background-color: gray;
 }
 
 .page-title{
@@ -44,8 +45,17 @@ hr {
   font-size: 14px;
   font-weight: normal;
 }
+
 .hack-az{
   color:  #9932CC;
+}
+
+.mentor-shoutout{
+  font-size: 12px;
+  font-style: italic;
+  text-align: center;
+  padding-top: 12px;
+  margin-bottom:0px;
 }
 
 .organization-shoutout{
