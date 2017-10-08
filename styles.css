@@ -11,10 +11,19 @@ hr {
     height: 1px;
     border-top: 1px solid gray;
     background-color: gray;
+    padding:0px;
+}
+
+header{
+  background-color: #64bbc8;
 }
 
 .bg-light{
   background-color: white;
+}
+
+.text-centered{
+  text-align: center
 }
 
 .page-title{
@@ -39,10 +48,26 @@ hr {
   font-weight:normal;
 }
 
+.future-events{
+  padding:10%;
+  height: 100%;
+  width: 100%;
+  background-color: #34315c;
+  border: 2px black solid; 
+}
+
 .workshop-title{
   font-size: 20px;
   font-style: italic;
   text-decoration: underline;
+}
+
+.mailto{
+  border: 2px white solid;
+  border-radius: 8px;
+  padding: 8px;
+  background-color: #a1b7ea;
+  color: white;
 }
 
 .workshop-description{
@@ -51,7 +76,15 @@ hr {
 }
 
 .hack-az{
-  color:  #9932CC;
+  color: black;
+}
+
+.hack-az-container{
+  background-color: #9932CC;
+  color:white;
+  border: 2px white solid;
+  padding: 12px;
+  border-radius:12px;
 }
 
 .mentor-shoutout{
@@ -62,9 +95,16 @@ hr {
   margin-bottom:0px;
 }
 
+.quote{
+  border: 2px solid black;
+  border-radius: 12px;
+  padding: 12px;
+}
+
 .organization-shoutout{
   text-align: center;
   font-weight: normal;
+  margin-bottom: 10%;
 }
 .register-link{
   text-align: center;
