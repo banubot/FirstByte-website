@@ -22,6 +22,11 @@ header{
   background-color: white;
 }
 
+.workshop-schedule{
+  border: 2px black solid;
+  border-radius: 12px; 
+  padding: 12px;
+}
 .text-centered{
   text-align: center
 }
@@ -53,7 +58,7 @@ header{
   height: 100%;
   width: 100%;
   background-color: #34315c;
-  border: 2px black solid; 
+  border: 2px black solid;
 }
 
 .workshop-title{
