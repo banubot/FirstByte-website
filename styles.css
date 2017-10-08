@@ -13,6 +13,10 @@ hr {
     background-color: gray;
 }
 
+.bg-light{
+  background-color: white;
+}
+
 .page-title{
   text-align: center;
   padding-top: 20px;
