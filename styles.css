@@ -1,6 +1,5 @@
 body{
-  background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
-  background-blend-mode: screen;
+
 }
 
 footer{
@@ -15,7 +14,7 @@ hr {
 }
 
 header{
-  background-color: #64bbc8;
+
 }
 
 .bg-light{
@@ -24,7 +23,7 @@ header{
 
 .workshop-schedule{
   border: 2px black solid;
-  border-radius: 12px; 
+  border-radius: 12px;
   padding: 12px;
 }
 .text-centered{
