@@ -118,6 +118,10 @@ btn-second{
   text-align: center;
   font-weight: normal;
 }
+
+.partner-section{
+  padding: 60px; 
+}
 .register-link{
   text-align: center;
 }
