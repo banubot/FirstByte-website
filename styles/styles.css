@@ -13,8 +13,8 @@ hr {
     padding:0px;
 }
 
-header{
-
+btn-second{
+  color: #000;
 }
 
 .bg-light{
@@ -32,7 +32,7 @@ header{
 
 .page-title{
   text-align: center;
-  padding-top: 20px;
+  padding-top: 30px;
   pading-bottom: 5px;
 }
 
@@ -89,12 +89,23 @@ header{
   border-radius:12px;
 }
 
+.mentor-row{
+  background-color: #830909;
+  text-align: center;
+}
+
 .mentor-shoutout{
   font-size: 12px;
   font-style: italic;
   text-align: center;
   padding-top: 12px;
   margin-bottom:0px;
+}
+
+.emailButton{
+  border: 2px black solid;
+  padding: 12px;
+  border-radius:12px;
 }
 
 .quote{
@@ -106,7 +117,6 @@ header{
 .organization-shoutout{
   text-align: center;
   font-weight: normal;
-  margin-bottom: 10%;
 }
 .register-link{
   text-align: center;
