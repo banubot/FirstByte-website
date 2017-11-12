@@ -6,6 +6,10 @@ footer{
   text-align: center;
 }
 
+header{
+  padding: 30px;
+}
+
 hr {
     height: 1px;
     border-top: 1px solid gray;
@@ -32,7 +36,6 @@ btn-second{
 
 .page-title{
   text-align: center;
-  padding-top: 30px;
   pading-bottom: 5px;
 }
 
@@ -120,7 +123,7 @@ btn-second{
 }
 
 .partner-section{
-  padding: 60px; 
+  padding: 60px;
 }
 .register-link{
   text-align: center;
