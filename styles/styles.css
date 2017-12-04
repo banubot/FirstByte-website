@@ -1,5 +1,5 @@
 body{
-	background-color: #C8C8C8;
+	background-color: #ffffff;
 	color: #000000;
 }
 
@@ -62,6 +62,7 @@ btn-second{
 
 .section-option{
 	min-height: 200px;
+	border-radius: 12px;
 }
 
 .section-heading{
