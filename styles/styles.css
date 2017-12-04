@@ -1,9 +1,11 @@
 body{
-
+	background-color: #C8C8C8;
+	color: #000000;
 }
 
 footer{
   text-align: center;
+  padding-top: 60px;
 }
 
 header{
@@ -19,6 +21,15 @@ hr {
 
 btn-second{
   color: #000;
+}
+
+.thumbnail img{
+    max-width: 100%; /* do not stretch the bootstrap column */
+}
+
+.img-wrapper{
+	width: 100%;
+	position: relative;
 }
 
 .bg-light{
@@ -39,9 +50,18 @@ btn-second{
   pading-bottom: 5px;
 }
 
+.page-title-image{
+		max-width: 80%;
+		max-height: 300px;
+}
+
 .page-subtitle{
   text-align: center;
   font-style: italic;
+}
+
+.section-option{
+	min-height: 200px;
 }
 
 .section-heading{
@@ -120,6 +140,7 @@ btn-second{
 .organization-shoutout{
   text-align: center;
   font-weight: normal;
+		padding-top: 20px;
 }
 
 .partner-section{
