@@ -42,7 +42,7 @@ btn-second{
 }
 
 .dynamic-font{
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .page-title{
@@ -101,6 +101,6 @@ btn-second{
     margin: auto;
   }
   .dynamic-font{
-    font-size: 14px;
+    font-size: 16px;
   }
 }
