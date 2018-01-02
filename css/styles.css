@@ -1,0 +1,106 @@
+body{
+	background-color: #ffffff;
+	color: #000000;
+}
+
+footer{
+  text-align: center;
+  padding-top: 10px;
+}
+
+header{
+  padding: 30px;
+}
+
+hr {
+    height: 1px;
+    border-top: 1px solid gray;
+    background-color: gray;
+    padding:0px;
+}
+
+btn-second{
+  color: #000;
+}
+
+.thumbnail img{
+    max-width: 100%; /* do not stretch the bootstrap column */
+}
+
+.img-wrapper{
+	width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.section-title{
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
+  width: 80%;
+  margin: auto;
+}
+
+.dynamic-font{
+  font-size: 18px;
+}
+
+.page-title{
+  text-align: center;
+  pading-bottom: 5px;
+}
+
+.page-title-image{
+    display: block;
+    margin: auto;
+		max-width: 80%;
+		max-height: 200px;
+}
+
+.page-subtitle{
+  text-align: center;
+  font-style: italic;
+}
+
+.mailto{
+  border: 2px white solid;
+  border-radius: 8px;
+  padding: 8px;
+  color: white;
+}
+
+.hack-az{
+  color: black;
+}
+.sponsor{
+  color: #FF8A8C;
+}
+
+.about{
+  background-color: #FF8C00;
+  color: white;
+  padding: 10px;
+}
+
+.about a{
+  color: black;
+}
+
+@media (max-width: 600px) {
+  .page-title-image{
+    display: block;
+    margin: auto;
+    width: 80%;
+    height: 80%;
+  }
+  .section-title{
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    width: 90%;
+    margin: auto;
+  }
+  .dynamic-font{
+    font-size: 14px;
+  }
+}
