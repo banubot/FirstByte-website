@@ -42,7 +42,7 @@ btn-second{
 }
 
 .dynamic-font{
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .page-title{
@@ -80,6 +80,7 @@ btn-second{
   background-color: #FF8C00;
   color: white;
   padding: 10px;
+  border: 2px solid black;
 }
 
 .about a{
