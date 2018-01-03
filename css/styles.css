@@ -19,6 +19,10 @@ body{
   padding: 10px;
 }
 
+.footer-line{
+  width: 50%;
+}
+
 header{
   padding: 30px;
 }
@@ -133,5 +137,8 @@ btn-second{
     text-align: center;
     float: none;
     padding: 10px;
+  }
+  .footer-line{
+    width: 80%; 
   }
 }
