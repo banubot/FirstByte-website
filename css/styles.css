@@ -155,7 +155,11 @@ btn-second{
     padding-bottom: 0;
   }
   .schedule{
-    padding: 4px;
+    right: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
   }
 }
 
