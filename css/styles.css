@@ -1,6 +1,10 @@
 body{
-	background-color: #ffffff;
 	color: #000000;
+  background-image: url("../img/dust_scratches/dust_scratches.png");
+}
+
+footer{
+  background-image: url("../img/dust_scratches/dust_scratches.png");
 }
 
 .footer {
