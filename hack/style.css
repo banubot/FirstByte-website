@@ -1,5 +1,15 @@
+th, td {
+	width: 12%;
+	padding: 15px;
+}
 
-
+table {
+	width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+	text-align: center;
+}
 
 body, html {
   height: 100%;
