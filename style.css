@@ -6,11 +6,6 @@ body, html {
   font: 400 15px/1.8 "Lato", sans-serif;
   color: #777;
 }
-h2 {
-	font: 18px "Lato", sans-serif;
-	color: black;
-	letter-spacing: 5px;
-}
 .bgimg-1, .bgimg-2, .bgimg-3 {
   position: relative;
   opacity: 0.65;
@@ -43,12 +38,18 @@ h2 {
   text-align: center;
   color: #000;
 }
+
+a {
+	color: white;
+}
+
 .textBox {
 	color:#ddd; 
 	background-color:#282E34; 
 	text-align: center; 
 	padding: 50px 80px; 
 	text-align: justify;
+	font-size: 20px;
 }
 .caption span.border {
   background-color: #111;
@@ -66,6 +67,7 @@ h2 {
 	text-align:center; 
 	padding: 50px 80px; 
 	text-align: justify;
+	font-size: 20px;
 }
 
 h3 {
@@ -78,6 +80,21 @@ h3 {
 
 .dis {
 	position: relative;
+}
+
+h2 {
+	border-radius: 2px;
+	margin-top: 50px;
+    height: 30px;
+	width: 510px;
+	background-color: #FFEAE9;
+	font: 18px "Lato", sans-serif;
+	color: black;
+	letter-spacing: 3px;
+}
+h2 img {
+
+	vertical-align: middle;
 }
 
 /* Turn off parallax scrolling for tablets and phones */
