@@ -51,6 +51,7 @@ a {
 	text-align: justify;
 	font-size: 20px;
 }
+
 .caption span.border {
   background-color: #111;
   color: #fff;
@@ -58,9 +59,15 @@ a {
   font-size: 25px;
   letter-spacing: 10px;
 }
+
+.border img {
+  max-width: 80%;
+}
+
 .git {
 	border-radius: 24px;
 }
+
 .about {
 	color: #777; 
 	background-color:white; 
@@ -85,8 +92,7 @@ h3 {
 h2 {
 	border-radius: 2px;
 	margin-top: 50px;
-    height: 30px;
-	width: 510px;
+	max-width: 510px;
 	background-color: #FFEAE9;
 	font: 18px "Lato", sans-serif;
 	color: black;
